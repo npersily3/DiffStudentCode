@@ -16,7 +16,6 @@ public class PlagiarismChecker {
      */
     public static int longestSharedSubstring(String doc1, String doc2) {
 
-        // TODO Complete this function to return the length of the longest shared substring.
 
         return 0;
     }
