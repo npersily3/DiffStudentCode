@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Noah Persily
 
 | Date   |   Time    |                                                                                                                                                                                                                                                                                                                                                                   Update |
 |:-------|:---------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Feb 24 | 1130-1200 | Thinking about an approach where you start with a small substring and build up towards the answers. The hard part to store is if the longest shared substring occurs at the beginning of one word and the end of another. For not this case when you add a letter you start searching for it in the other string starting at the end of the current repeating substring. |
-|        |           |                                                                                                                                                                                                                                                                                                                                                                          |
+| Feb 26 |  900-930  |                                                                               Using a tabulation grid approach where the lengths each correspond to a word. I manually input the first row and collumn. Then for every square I say if the new letters equal each other the lss at that place equals the diagonal + 1. Otherwise, take the max between adjacent squares. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
