@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f68ad4e4-7dd7-4950-93fb-5d96ae262228" name="Changes" comment="Worklog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WORK_LOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/WORK_LOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PlagiarismChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlagiarismChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +41,67 @@
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.PlagiarismCheckerTest.executor": "Run",
+    "JUnit.PlagiarismCheckerTest.testCorrectMed.executor": "Run",
+    "JUnit.PlagiarismCheckerTest.testCorrectSmall.executor": "Run",
+    "JUnit.PlagiarismCheckerTest.testEdgeCase.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.PlagiarismCheckerTest">
+    <configuration name="PlagiarismCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DiffStudentCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlagiarismCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlagiarismCheckerTest.testCorrectMed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DiffStudentCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlagiarismCheckerTest" />
+      <option name="METHOD_NAME" value="testCorrectMed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlagiarismCheckerTest.testCorrectSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DiffStudentCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlagiarismCheckerTest" />
+      <option name="METHOD_NAME" value="testCorrectSmall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlagiarismCheckerTest.testEdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DiffStudentCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlagiarismCheckerTest" />
+      <option name="METHOD_NAME" value="testEdgeCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlagiarismCheckerTest" />
+        <item itemvalue="JUnit.PlagiarismCheckerTest.testEdgeCase" />
+        <item itemvalue="JUnit.PlagiarismCheckerTest.testCorrectMed" />
+        <item itemvalue="JUnit.PlagiarismCheckerTest.testCorrectSmall" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740591280557</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Worklog">
+      <option name="closed" value="true" />
+      <created>1740594768072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740594768072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
