@@ -47,7 +47,7 @@ public class PlagiarismChecker {
         for (int i = 0; i < grid.length; i++) {
             // Travel down a row until a match is achieved with the letter in the first column
             if(first == doc1.charAt(i)) {
-                // Then fill the rest of the grid with rows
+                // Then fill the rest of the row with ones
                 while (i < grid.length) {
                     grid[i][0] = 1;
                     i++;
